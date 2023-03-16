@@ -38,7 +38,7 @@
   - **Quiz 5**: Max 40 points
 - 2023-05-04
   - **Midterm 2**: Max 190 points
-  - Bonus: Course Feedback **before 2023-05-04**
+  - Bonus
 
 ## Grading Scheme
 
